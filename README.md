@@ -1,2 +1,5 @@
 # react-user-dashboard
-react crud
+
+
+* 1.npm install
+* 2.npm start
